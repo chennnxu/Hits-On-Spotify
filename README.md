@@ -13,3 +13,7 @@ Music is a universal language and a favorite leisure activity for many of us. Ho
 4.IPYNB <-> Answer research question 4, 5  
 5.IPYNB <-> Answer research question 7  
 6.IPYNB <-> Answer research question 3 -->
+
+<div align = "center">
+<img src="https://github.com/chennnxu/chennnxu.github.io/blob/5bf0f4e8e7b3441b50259f1d790e98288533a088/assets/img/eventbrite/category.png" width = "500" alt="category" align=center />
+</div>
