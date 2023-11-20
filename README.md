@@ -1,6 +1,6 @@
 # Hits on Spotify: Anatomy of Tracks, Artists and Streams
 
-<div align = "center">
+<div align = "left">
 <img src="https://github.com/chennnxu/HitsOnSpotify/blob/44697c715ebd61779abb939c00b4f5c40409047f/spotify.png" width = "100" alt="category" align=center />
 </div>
 
